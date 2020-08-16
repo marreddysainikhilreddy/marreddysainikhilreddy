@@ -1,4 +1,4 @@
-### Hi there I am Nikhil👋
+### Hi there👋 I am Nikhil
 
 
 - 🔭 I’m currently working on Machine Learning projects

@@ -13,4 +13,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marreddysainikhilreddy&theme=default&line_height=27&layout=compact" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=marreddysainikhilreddy)

@@ -1,8 +1,7 @@
 ### Hi there👋 I am Nikhil
   
-<img src="https://github.com/marreddysainikhilreddy/marreddysainikhilreddy/blob/master/video.gif" height="270" width="490">
-
 - 🔭 I’m currently working on Machine Learning projects 
+<img src="https://github.com/marreddysainikhilreddy/marreddysainikhilreddy/blob/master/video.gif" height="270" width="490" align="right">
 
 - 🌱 I’m currently learning Deep learning 
 - 👯 I’m looking to collaborate on Machine Learning projects

@@ -1,6 +1,6 @@
 ### Hi there👋 I am Nikhil
-<p>
-  <img width="450" id="gifs" height="270" src="video.gif" align="right" style="margin-bottom: 5000px"></p>
+  
+  <img src="video.gif" align="right" style="margin-bottom: 50px">
   
 - 🔭 I’m currently working on Machine Learning projects 
 
